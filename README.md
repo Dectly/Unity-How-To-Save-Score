@@ -26,4 +26,4 @@ public class ScoreSystem : MonoBehaviour
         scoreTMP.text = "Score: " + PlayerPrefs.GetInt("Score").ToString();
     }
 
-}```
+}
